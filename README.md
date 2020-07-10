@@ -2,9 +2,9 @@
 
 I'm Elianiva, a self taught web developer and an open source enthusiast.
 
-Currently learning 3 languages which are JS/TS, Golang, and Japanese.
+Currently learning 3 languages which are JS/TS, Golang, and Japanese ;).
 
-Nice to meet you :)
+Nice to meet you!
 
 <!--
 **elianiva/elianiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
