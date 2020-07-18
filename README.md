@@ -8,6 +8,8 @@ In case you want to see my blog, [here it is.](https://elianiva.github.io).
 
 Nice to meet you!
 
+![github stats](https://github-readme-stats.vercel.app/api?username=elianiva&show_icons=true)
+
 <!--
 **elianiva/elianiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
