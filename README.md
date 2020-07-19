@@ -1,10 +1,8 @@
 ## Hi there!
 
-I'm Elianiva, a self taught web developer and an open source enthusiast.
-
-Currently learning 3 languages which are JS/TS, Golang, and Japanese ;).
-
-In case you want to see my blog, [here it is.](https://elianiva.github.io).
+- I'm Elianiva, a self taught web developer and an open source enthusiast.
+- Currently learning 3 languages which are JS/TS, Golang, and Japanese ;).
+- In case you want to see my blog, [here it is](https://elianiva.github.io).
 
 Nice to meet you!
 
