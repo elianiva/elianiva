@@ -6,6 +6,4 @@
 	<p>You can contact me on my <a style="color: #5c90ff; font-weight: bold;" href="https://facebook.com/ho0m4n" target="_blank">Facebook</a> or my <a style="color: #5c90ff; font-weight: bold;" href="https://t.me/elianiva" target="_blank">Telegram</a></p>
 </div>
 
-<p>My current github status:</p>
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=elianiva&show_icons=true)
