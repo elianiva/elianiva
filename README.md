@@ -4,4 +4,4 @@ I'm Elianiva, a 16 y/o teenager who wants to be a fullstack web developer someda
 
 I also :hearts: writing stuff that I've learned, so if you are interested on that you can check out [my blog](https://elianiva.github.io/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=elianiva&show_icons=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zu7n5i6jtipipiwxrfyglhozmq&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
