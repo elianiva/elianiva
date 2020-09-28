@@ -2,8 +2,6 @@
 
 I'm Elianiva, or if you prefer to call me with my real name, Dicha (though technically my username **IS** part of my realname). I'm a 16 y/o asian teenager who does some random stuff. So, here's a summary about me.
 
-<a href="https://www.last.fm/user/elianiva"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31zu7n5i6jtipipiwxrfyglhozmq&cover_image=false" alt="thumbnail" align="right" width="320px"></a>
-
 - :telescope: I’m currently working on some projects which took forever lmao.
 - :seedling: I’m currently learning React, Next, Node, TS, Lua, Svelte, UI/UX.
 - :earth_asia: Native Indonesian speaker and fluent English. Currently learning Japanese.
