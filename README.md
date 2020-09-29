@@ -3,7 +3,7 @@
 I'm Elianiva, or if you prefer to call me with my real name, Dicha (though technically my username **IS** part of my realname). I'm a 16 y/o asian teenager who does some random stuff. So, here's a summary about me.
 
 - :telescope: I’m currently working on some projects which took forever lmao.
-- :seedling: I’m currently learning React, Next, Node, TS, Lua, Svelte, UI/UX.
+- :seedling: I’m currently learning React, Node, TS, Lua, Svelte, Routify, and UI/UX.
 - :earth_asia: Native Indonesian speaker and fluent English. Currently learning Japanese.
 - :question: Ask me about anything and I'll answer it if I can. Just feel free to hit me up :)
 - :mailbox: How to reach me: Just email me, it's the best way to reach me.
