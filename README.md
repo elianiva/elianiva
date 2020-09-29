@@ -11,3 +11,5 @@ I'm Elianiva, or if you prefer to call me with my real name, Dicha (though techn
 - :zap: Fun fact: I freakin love Babymetal. My favourite song from them is 上下左右BBAB and Elevator Girl (JP ver).
 
 I also :hearts: writing stuff that I've learned, so if you are interested on that you can check out [my blog](https://elianiva.github.io/).
+
+https://github-profile-trophy.vercel.app/?username=elianiva
