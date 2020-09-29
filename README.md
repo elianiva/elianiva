@@ -12,4 +12,4 @@ I'm Elianiva, or if you prefer to call me with my real name, Dicha (though techn
 
 I also :hearts: writing stuff that I've learned, so if you are interested on that you can check out [my blog](https://elianiva.github.io/).
 
-https://github-profile-trophy.vercel.app/?username=elianiva
+![Trophy](https://github-profile-trophy.vercel.app/?username=elianiva)
