@@ -5,7 +5,7 @@ I'm Elianiva, or if you prefer to call me with my real name, Dicha (though techn
 <a href="#"><img width="320px" align="right" src="./ryuko-blink.gif"></a>
 
 - :telescope: I’m currently working on some projects which took forever lmao.
-- :seedling: I’m currently learning JS/TS, Svelte, Rust, and UI/UX.
+- :seedling: I’m currently learning JS/TS, Svelte, Rust, Lua, and UI/UX.
 - :earth_asia: Native Indonesian speaker and fluent English. Currently learning Japanese.
 - :question: Ask me about anything and I'll answer it if I can. Just feel free to hit me up :)
 - :mailbox: How to reach me: Just email me, it's the best way to reach me.
