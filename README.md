@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Elianiva, or if you prefer to call me with my real name, Dicha (though technically my username **IS** part of my realname). I'm a 16 y/o boi doing some random web/loonix related stuff. Here's a summary about me.
+I'm Elianiva. A 16 y/o boi doing some random web/loonix related stuff. Here's a summary about me.
 
 <a href="#"><img width="320px" align="right" src="./ryuko-blink.gif"></a>
 
