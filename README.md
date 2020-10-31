@@ -12,4 +12,4 @@ I'm Elianiva. A 16 y/o boi doing some random web/loonix related stuff. Here's a 
 - :smile: Pronouns: Dia / He / 彼
 - :zap: Fun fact: I love Babymetal. My favourite song from them is 上下左右BBAB and Elevator Girl (JP ver).
 
-I also :hearts: writing stuff that I've learned, so if you are interested on that you can check out [my blog](https://elianiva.github.io/).
+I also :hearts: writing stuff that I've learned, so if you are interested on that you can check out [my blog](https://elianiva.me/post).
